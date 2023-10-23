@@ -1,5 +1,4 @@
 # Blogar - React Nextjs Blog and React Magazine Template - Next.js Jamstack 🚀
-[Live Preview](link_to_live_preview)
 
 A creative React Next JS template for Blog, Magazine, Tech, Travel & Tour Agencies. Blogar is a premium and trendy blog, Magazine, and Blog React Next JS template with super flexibility and a fully responsive design. It is a perfect fit for blogs, magazines, News Agencies, Travel & Tour Agencies, Business Magazines, Food, Lifestyle Brands, and Technology News websites. It is also suitable for any publishing or review websites that require a sleek, modern, and clean look with Dark Mode.
 
